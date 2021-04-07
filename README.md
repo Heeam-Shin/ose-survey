@@ -15,6 +15,7 @@ webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
 - webOS OSE를 어떤 용도로 사용하고 있나요?
     - App 개발
     - Service 개발
+    - 플랫폼 활용
     - ?
     - 아직 사용하고 있지 않음
 

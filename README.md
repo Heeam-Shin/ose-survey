@@ -51,17 +51,17 @@ webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
     - AI
     - Other (please specify)
 
+> :bulb: 5번은 webOS OSE의 전반적인 만족도 조사
+
 5. webOS OSE라는 플랫폼의 매력도를 평가한다면?
 
-    > :bulb: 전반적인 만족도 조사
-    
     - 별 1~5개 중 선택
 
 6. webOS OSE에서 추가적으로 지원했으면 하는 기능이 있다면? (주관식)
 
-7. Website (webosose.org)를 어떻게 알고 방문하게 되었나요?
+> :bulb: 7번은 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용하기 위함.
 
-    > :bulb: 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용
+7. Website (webosose.org)를 어떻게 알고 방문하게 되었나요?
 
     - Search engine
     - SNS

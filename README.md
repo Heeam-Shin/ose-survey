@@ -22,7 +22,7 @@ webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
 
 1. What is your job title?
     - Programmer
-    - Manager
+    - Product Manager
     - Marketer
     - IT consultant
     - Other (주관식)

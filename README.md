@@ -2,99 +2,92 @@
 
 webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
 
-## 설문 조사 항목
+> :bulb: 아래 설문 내용 중 제목, note 형식으로 highlight되어있는 내용은 실제 설문에는 없는 내용입니다.
 
-아래와 같은 정보들을 얻기 위한 문항들입니다.
+## webOS OSE Survey
 
-- webOS OSE를 알게되는 경로
-- webOS OSE의 사용 목적
-- 웹사이트를 방문한 경로
-- OSE 및 웹사이트에 대한 전반적인 만족도
-- OSE를 이용하는 사람들에 대한 대략적인 정보
-- 주관식 문항을 통한 개선점 도출
+> :bulb: 아래와 같은 정보들을 얻기 위한 문항들입니다.
+> - webOS OSE를 알게되는 경로
+> - webOS OSE의 사용 목적
+> - 웹사이트를 방문한 경로
+> - OSE 및 웹사이트에 대한 전반적인 만족도
+> - OSE를 이용하는 사람들에 대한 대략적인 정보
+> - 주관식 문항을 통한 개선점 도출
 
-### webOS OSE 관련
+설문은 총 11문항이고 예상 소요 시간은 약 3분 내외입니다.
 
-- webOS OSE를 어떻게 알게되었나요? 
+모든 설문 내용은 익명으로 처리됩니다.
 
-    > :bulb: 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용
+> :bulb: 직업관련 문항들은 어떤 직업을 갖고 있는 사람들이 사이트에 많이 오나 확인하기 위함입니다. 어떤 문서 작업을 우선 순위로 진행할 것인지에 대한 근거 자료로 활용될 수 있을 것이라 예상합니다.
 
-    - 업무적으로 알게 됨
-    - SNS나 기타 커뮤니티 사이트
-    - webOS를 찾아보다가
-    - 기타 (주관식)
-
-- webOS OSE를 어떤 용도로 사용하고 있나요?
-
-    > :bulb: Landing page > hero image의 4개 분류를 참고함
-
-    - Robot
-    - IoT
-    - Automotive
-    - AI
-    - 기타 (주관식)
-
-- webOS OSE라는 플랫폼의 매력도를 평가한다면?
-
-    > :bulb: 전반적인 만족도 조사
-    
-    - 1~2
-    - 3~4
-    - 5~6
-    - 7~8
-    - 9~10
-
-- webOS OSE에서 추가적으로 지원했으면 하는 기능이 있다면? (주관식)
-
-### 사이트 관련
-
-- webosose.org 웹사이트를 어떻게 알고 방문하게 되었나요?
-
-    > :bulb: 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용
-
-    - Search engine
-    - SNS
-    - Developer Community
-    - Job
-    - 기타 (주관식)
-
-> :bulb: 아래 3개 항목은 사이트의 전반적인 문서 퀄리티를 가늠하기 위함.
-
-- 사이트 내에서 원하는 내용을 찾기 쉽나요?
-    - Very easy
-    - Easy
-    - Average
-    - Difficult
-    - Very difficult
-
-- 사이트 문서를 토대로 app이나 service를 개발하는 것이 쉽나요?
-    - Very easy
-    - Easy
-    - Average
-    - Difficult
-    - Very difficult
-
-- 사이트 기능이나 문서 중에 보강되었으면 하는 부분이 있다면? (주관식)
-
-### 직업 관련
-
-> :bulb: 본 카테고리의 문항들은 어떤 직업을 갖고 있는 사람들이 사이트에 많이 오나 확인하기 위함입니다. 어떤 문서 작업을 우선 순위로 진행할 것인지에 대한 근거 자료로 활용될 수 있을 것이라 예상합니다.
-
-- What is your job title?
+1. What is your job title?
     - Programmer
     - Manager
     - Marketer
     - IT consultant
     - Other (주관식)
 
-- How long have you been at your job?
+2. How long have you been at your job?
     - 3 years or fewer
     - 4-6 years
     - 7 years or more
 
-### 마무리 질문
+> :bulb: 3번은 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용
 
-- webOS OSE에 추가 의견이 있다면? (Platform, documentation 등 아무거나)
+3. webOS OSE에 대해 어떻게 알게 되었나요?
+    
+    - 업무 관련하여 알게 됨
+    - SNS나 개발자 커뮤니티 사이트에서 접함
+    - webOS device를 사용한 경험이 있음
+    - Other (please specify)
+
+> :bulb: 4번은 Landing page > hero image의 4개 분류를 참고함
+
+4. 현재 webOS OSE를 어떤 곳에서 이용하고 있나요?
+
+    - Robot
+    - IoT
+    - Automotive
+    - AI
+    - Other (please specify)
+
+5. webOS OSE라는 플랫폼의 매력도를 평가한다면?
+
+    > :bulb: 전반적인 만족도 조사
+    
+    - 별 1~5개 중 선택
+
+6. webOS OSE에서 추가적으로 지원했으면 하는 기능이 있다면? (주관식)
+
+7. Website (webosose.org)를 어떻게 알고 방문하게 되었나요?
+
+    > :bulb: 주된 유입 경로를 조사하여 추후 홍보 매체 결정의 근거자료로 사용
+
+    - Search engine
+    - SNS
+    - Developer Community
+    - News
+    - 기타 (주관식)
+
+> :bulb: 8~10 항목은 사이트의 전반적인 문서 퀄리티를 가늠하기 위함.
+
+8. Website에서 원하는 내용을 찾기 쉽나요?
+    - Very easy
+    - Easy
+    - Average
+    - Difficult
+    - Very difficult
+
+9. Website 문서 내용을 토대로 app이나 service를 개발하는 것이 쉽나요?
+    - Very easy
+    - Easy
+    - Average
+    - Difficult
+    - Very difficult
+
+10. Website 기능이나 문서 중 보강되었으면 하는 부분이 있다면? (주관식)
+
+11. webOS OSE 개발 팀에 추가적으로 하고 싶은 말이 있다면? (Platform, documentation, etc.)
 
 ## 설문 조사 항목 후보
 

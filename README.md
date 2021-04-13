@@ -4,7 +4,7 @@ webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
 
 > :bulb: 아래 설문 내용 중 제목, note 형식으로 highlight되어있는 내용은 실제 설문에는 없는 내용입니다.
 
-## webOS OSE Survey
+## webOS OSE Satisfaction Survey (Korean)
 
 > :bulb: 아래와 같은 정보들을 얻기 위한 문항들입니다.
 > - webOS OSE를 알게되는 경로
@@ -88,6 +88,72 @@ webOS OSE Forum에 게시할 설문 조사를 정리하는 repository입니다.
 10. Website 기능이나 문서 중 보강되었으면 하는 부분이 있다면? (주관식)
 
 11. webOS OSE 개발 팀에 추가적으로 하고 싶은 말이 있다면? (Platform, documentation, etc.)
+
+## webOS OSE Satisfaction Survey (English)
+
+Thank you for taking the webOS OSE Satisfaction Survey. The survey should take less than five minutes to complete. All information from this survey will be kept completely anonymous.
+Question Title
+
+1. What is your job title?
+
+    - Programmer
+    - Product Manager
+    - Marketer
+    - IT Consultant
+    - Other (please specify)
+
+2. How long have you been at your job?
+
+    - 3 years or fewer
+    - 4-6 years
+    - 7 years or more
+
+3. Where did you first come to know webOS OSE?
+
+    - Job
+    - SNS or developer community
+    - Other webOS devices
+    - Other (please specify)
+
+4. What is your main usage of webOS OSE?
+
+    - Robot
+    - IoT
+    - Automotive
+    - AI
+    - Other (please specify)
+
+5. How satisfied are you with webOS OSE?
+	
+6. Are there any features you would like to add to webOS OSE?
+
+7. Where did you find out this website (webosose.org)?
+
+    - Search engine
+    - SNS
+    - Developer community
+    - News
+    - Other (please specify)
+
+8. On this website, can you find the document that you want easily?
+
+    - Very easy
+    - Easy
+    - Average
+    - Difficult
+    - Very difficult
+
+9. Is it easy to develop webOS OSE apps or services based on our documents?
+
+    - Very easy
+    - Easy
+    - Average
+    - Difficult
+    - Very difficult
+
+10. What can we do to imrove our documents or website?
+
+11. Is there anything you'd like to add? We love feedbacks from our developers!
 
 ## 설문 조사 항목 후보
 
